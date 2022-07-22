@@ -5,3 +5,14 @@ body{
     font-size: medium;
     color:rgb(120, 36, 199);
 }
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: justify;
+    border: 1px solid rgb(132, 127, 127);
+    margin: 0 auto;
+}
+
+#container h1{
+    font-size: 20px;
+}
