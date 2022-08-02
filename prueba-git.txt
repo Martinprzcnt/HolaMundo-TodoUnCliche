@@ -4,3 +4,5 @@ En esta ocasion solo estoy agregando mas texto al archivo txt para guardad un nu
 
 
 Aprendiendo de Rebase 
+
+Probando alias
