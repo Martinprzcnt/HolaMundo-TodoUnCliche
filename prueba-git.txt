@@ -2,6 +2,4 @@ prueba para git
 
 En esta ocasion solo estoy agregando mas texto al archivo txt para guardad un nuevo commit
 
-Main 1
-
-Main 2
+Main 1 
