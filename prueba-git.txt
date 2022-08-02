@@ -2,10 +2,3 @@ prueba para git
 
 En esta ocasion solo estoy agregando mas texto al archivo txt para guardad un nuevo commit
 
-
-Aprendiendo de Rebase 
-
-Probando alias
-
-
-main dos 
